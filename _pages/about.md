@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. student in Computer Science at City University of Hong Kong, advised by Prof. [Jing Liao](https://scholars.cityu.edu.hk/en/persons/jingliao). I am fortunate to collaborate with [Nanxuan Zhao](https://www.nxzhao.com) and [Difan Liu](difanliu.github.io) at Adobe Research.
+I am a fourth-year Ph.D. student in Computer Science at City University of Hong Kong, advised by Prof. [Jing Liao](https://scholars.cityu.edu.hk/en/persons/jingliao). I am fortunate to collaborate with [Nanxuan Zhao](https://www.nxzhao.com) and [Difan Liu](https://difanliu.github.io) at Adobe Research.
 
 My research lies in the areas of computer vision and computer graphics, with a particular focus on empowering vector graphics generation and customization using visual priors. Recently, I am interested in unified multimodal generation and editing across images, vectors, and videos.
 
@@ -24,7 +24,7 @@ My research lies in the areas of computer vision and computer graphics, with a p
 
 **DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance**
 
-<span style="color:#8c1d1d">**Peiying Zhang**</span>, [Nanxuan Zhao](https://www.nxzhao.com), [Matthew Fisher](https://techmatt.github.io), [Yiran Xu](https://twizwei.github.io), [Jing Liao](https://scholars.cityu.edu.hk/en/persons/jingliao), [Difan Liu](difanliu.github.io)
+<span style="color:#8c1d1d">**Peiying Zhang**</span>, [Nanxuan Zhao](https://www.nxzhao.com), [Matthew Fisher](https://techmatt.github.io), [Yiran Xu](https://twizwei.github.io), [Jing Liao](https://scholars.cityu.edu.hk/en/persons/jingliao), [Difan Liu](https://difanliu.github.io)
 
 <p class="conf-color">ArXiv 2025</p>
 
