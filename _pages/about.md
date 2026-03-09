@@ -19,28 +19,28 @@ My research lies in the areas of computer vision and computer graphics, with a p
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/DuetSVG.png' alt="DuetSVG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/DuetSVG.png' alt="DuetSVG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance**
 
 <span style="color:#8c1d1d">**Peiying Zhang**</span>, [Nanxuan Zhao](https://www.nxzhao.com), [Matthew Fisher](https://techmatt.github.io), [Yiran Xu](https://twizwei.github.io), [Jing Liao](https://scholars.cityu.edu.hk/en/persons/jingliao), [Difan Liu](https://difanliu.github.io)
 
-<p class="conf-color">ArXiv 2025</p>
+<p class="conf-color">CVPR 2026</p>
 
 [**Paper**](https://arxiv.org/abs/2512.10894) | [**Project**](https://intchous.github.io/DuetSVG-site)
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/illustratorsDepth.png' alt="illustratorsDepth" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/illustratorsDepth.png' alt="illustratorsDepth" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Illustrator's Depth: Monocular Layer Index Prediction for Image Decomposition**
 
 [Nissim Maruani](https://nissmar.github.io), <span style="color:#8c1d1d">**Peiying Zhang**</span>, [Siddhartha Chaudhuri](https://sidch.com), [Matthew Fisher](https://techmatt.github.io), [Nanxuan Zhao](https://www.nxzhao.com), [Vova Kim](https://vovakim.com), [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez), [Mathieu Desbrun](https://pages.saclay.inria.fr/mathieu.desbrun), [Wang Yifan](https://yifita.netlify.app)
 
-<p class="conf-color">ArXiv 2025</p>
+<p class="conf-color">CVPR 2026</p>
 
 [**Paper**](https://arxiv.org/abs/2511.17454)
 </div>
